@@ -44,7 +44,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardCarousel
-          title="Transforming Business Through Technology"
+          title="Transforming Technology"
           description="Leading IT solutions company providing cutting-edge technology services, digital transformation, and innovative software development to help your business thrive in the digital age"
           tag="Innovation Leader"
           tagIcon={Sparkles}
@@ -87,7 +87,7 @@ export default function Home() {
 
       <div id="about" data-section="about">
         <AboutMetric
-          title="At TechnoVision IT, we are passionate about empowering businesses through innovative technology solutions. With over a decade of experience, we transform challenges into opportunities and help organizations achieve their digital transformation goals."
+          title="yo yo"
           metrics={[
             {
               icon: TrendingUp,
