@@ -12,6 +12,10 @@ import ContactSplit from "@/components/sections/contact/ContactSplit";
 import FooterLogoEmphasis from "@/components/sections/footer/FooterLogoEmphasis";
 import { Sparkles, TrendingUp, Users, Clock, Award, Zap, Cloud, Shield, Headphones, Code, MessageSquare, Handshake, Phone } from "lucide-react";
 
+const assetMap = [
+  // Empty - no assets needed for this theme change
+];
+
 export default function Home() {
   return (
     <ThemeProvider
